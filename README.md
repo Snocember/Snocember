@@ -2,7 +2,7 @@
 
 - 🌱 I’m interested in python, java, html and css.
 - 🔭 I’m currently working on a Twitch-Spotify-Songrequest-Tool and "BuildFFA", a minecraft game.
-+ 📫 How to reach me: Via Discord (Snocember#8770) or via email (dev@snocember.de)
++ 📫 How to reach me: Via Discord (Snocember#877O) or via email (dev@snocember.de)
 
 <!--
 **Snocember/Snocember** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
