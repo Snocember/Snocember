@@ -2,7 +2,6 @@
 
 - 🌱 I’m interested in python, java, html and css.
 - 🔭 I’m currently working on a Twitch-Spotify-Songrequest-Tool ["TwiSpoBot"](https://www.twitch.tv/twispo). 
-- 🖥 At the moment I'm participating in the 39th BWINF. (IT competition)
 + 📫 How to reach me: Via Discord (Snocember#877Ø) or email (dev@snocember.de)
 
 <!--
