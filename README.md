@@ -2,7 +2,10 @@
 
 - 🌱 I’m interested in python, java, html and css.
 - 🔭 I’m currently working on a Twitch-Spotify-Songrequest-Tool.
-+ 📫 How to reach me: Via Discord (Snocember#877Ø) or email (dev@snocember.de)
+
+[![Snocember's github stats](https://github-readme-stats.vercel.app/api?username=snocember&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Snocember's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=snocember&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Snocember/Snocember** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
