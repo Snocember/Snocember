@@ -1,7 +1,7 @@
-<h2> 👀 Heyo! I'm Snocember. </h2>
+<h2>Heyo! I'm Snocember. ❄️</h2>
 
 <ul>
-  <li> 🌱 I’m interested in python, java, html and css.</li>
+  <li> 🌱 I’m interested in python, java, kotlin, html and css.</li>
   <li> 🔭 I’m currently working on a Twitch-Spotify-Songrequest-Tool.</li>
   <li> ✨ Now and then i'll contribute something here. (: </li>
 </ul>
