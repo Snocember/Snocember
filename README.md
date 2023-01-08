@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white">
   </br>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-1a1a1a.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <img src="https://img.shields.io/badge/Safari-0082C9?style=for-the-badge&logo=Safari&logoColor=white">
   <img src="https://img.shields.io/badge/Brave-E44C30?style=for-the-badge&logo=Brave&logoColor=white">
