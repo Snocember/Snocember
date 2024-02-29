@@ -2,7 +2,6 @@
 
 <ul>
   <li> 🌱 I’m interested in python, java, kotlin, html and css.</li>
-  <li> 🔭 I’m currently working on a Twitch-Spotify-Songrequest-Tool.</li>
   <li> ✨ Now and then i'll contribute something here. (: </li>
 </ul>
 
@@ -35,11 +34,9 @@
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-  <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
   </br>
   <img src="https://img.shields.io/badge/affinity-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
 
 <h5>Donate if you want:</h5>
