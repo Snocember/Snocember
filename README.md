@@ -7,7 +7,7 @@
 </ul>
 
 <div align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=snocember&count_private=true&show_icons=true&theme=tokyonight">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=snocember&count_private=true&show_icons=true&theme=tokyonight"> -->
 
 <h4>My Workspace</h4>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
