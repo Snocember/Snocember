@@ -2,6 +2,7 @@
 
 <ul>
   <li> 🌱 I’m interested in python, java, kotlin, html and css.</li>
+  <li> 📖 I'd like to learn Rust, Swift, Elixir/Gleam </li>
   <li> ✨ Now and then i'll contribute something here. (: </li>
 </ul>
 
