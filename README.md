@@ -1,9 +1,10 @@
 <h2>Heyo! I'm Snocember. ❄️</h2>
 
 <ul>
-  <li> 🌱 I’m interested in python, java, kotlin, html and css.</li>
+  <li> 🏫 Studying computer science at TU Darmstadt </li>
+  <li> 🌱 I’m interested in python, java, kotlin, html and css </li>
   <li> 📖 I'd like to learn Rust, Swift, Elixir/Gleam </li>
-  <li> ✨ Now and then i'll contribute something here. (: </li>
+  <li> ✨ Now and then i'll contribute something here (: </li>
 </ul>
 
 <div align='center'>
@@ -11,11 +12,13 @@
 
 <h4>My Workspace</h4>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/VMware-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/Apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white">
   </br>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian&logoColor=white">
+  <img src="https://img.shields.io/badge/VMware%20Fusion-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=white">
+  </br>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
   <img src="https://img.shields.io/badge/Safari-0082C9?style=for-the-badge&logo=Safari&logoColor=white">
@@ -35,7 +38,7 @@
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/Wagtail-0c8c9c?style=for-the-badge&logo=wagtail&logoColor=white">
   </br>
   <img src="https://img.shields.io/badge/affinity-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white">
   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
