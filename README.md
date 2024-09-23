@@ -2,7 +2,7 @@
 
 <ul>
   <li> 🏫 Studying computer science at TU Darmstadt </li>
-  <li> 🌱 I’m interested in python, java, kotlin, html and css </li>
+  <li> 🌱 I’m interested in Python, Java, Kotlin, Html & CSS </li>
   <li> 📖 I'd like to learn Rust, Swift, Elixir/Gleam </li>
   <li> ✨ Now and then i'll contribute something here (: </li>
 </ul>
@@ -44,8 +44,8 @@
   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
 
 <h5>Donate if you want:</h5>
-<a href="https://ko-fi.com/snocember"><img src="https://img.shields.io/badge/Ko--fi-ffffff?style=flat&logo=ko-fi&logoColor=red"></a>
 <a href="https://paypal.me/snocember"><img src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white"></a>
+<a href="https://ko-fi.com/snocember"><img src="https://img.shields.io/badge/Ko--fi-ffffff?style=flat&logo=ko-fi&logoColor=red"></a>
 
 </div>
 
