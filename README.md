@@ -12,17 +12,19 @@
 
 <h4>My Workspace</h4>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/Apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white">
+  <img src="https://img.shields.io/badge/Apple%20silicon-737373?style=for-the-badge&logo=apple&logoColor=white">
   </br>
   <img src="https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian&logoColor=white">
-  <img src="https://img.shields.io/badge/VMware%20Fusion-000000?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=white">
+  <img src="https://img.shields.io/badge/Rockylinux-000000?style=for-the-badge&logo=rockylinux&logoColor=white">  
+  <img src="https://img.shields.io/badge/Proxmox-737373?style=for-the-badge&logo=proxmox&logoColor=white">
+  <img src="https://img.shields.io/badge/VMware%20Fusion-737373?style=for-the-badge&Color=white">  
   </br>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
   <img src="https://img.shields.io/badge/Safari-0082C9?style=for-the-badge&logo=Safari&logoColor=white">
   <img src="https://img.shields.io/badge/Brave-E44C30?style=for-the-badge&logo=Brave&logoColor=white">
+  <img src="https://img.shields.io/badge/Zen-404040?style=for-the-badge&logoColor=white">
 
 <h4>Techstack</h4>
   <img src="https://img.shields.io/badge/Python-dfb620?style=for-the-badge&logo=python&logoColor=blue">
@@ -31,12 +33,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   </br>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/Traefik-24A0C1?style=for-the-badge&logo=traefikproxy&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
   <img src="https://img.shields.io/badge/Wagtail-0c8c9c?style=for-the-badge&logo=wagtail&logoColor=white">
   </br>
